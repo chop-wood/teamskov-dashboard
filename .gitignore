@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+# Per-computer Claude permissions
+.claude/settings.local.json
+# Saved browser sessions contain login cookies
+.auth/
+*.log
+.DS_Store
+Thumbs.db
+dist/
+.next/
